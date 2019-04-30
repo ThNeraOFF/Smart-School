@@ -1,0 +1,15 @@
+{
+  "name": "smartschool",
+  "version": "0.0.1",
+  "description": "An example of what a smart school system should look like :D",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ThNeraOFF/Smart-School.git"
+  },
+  "author": "Serbanescu Mihnea",
+  "license": "ISC"
+}
